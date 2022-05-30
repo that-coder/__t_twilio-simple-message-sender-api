@@ -1,0 +1,1 @@
+{"name":"twilio-simple-message-sender-api","type":"function","source":{"https":"https://github.com/that-coder/__t_twilio-simple-message-sender-api","ssh":"git@github.com:that-coder/__t_twilio-simple-message-sender-api.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
